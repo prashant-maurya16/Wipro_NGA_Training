@@ -1,0 +1,8 @@
+2025-02-06 10:30:13.5175|INFO|LoggerExample.AuthenticationService|Login attempt has made : niti
+2025-02-06 10:30:13.5557|INFO|LoggerExample.AuthenticationService|Login successful for username: niti
+2025-02-06 10:30:13.5557|INFO|LoggerExample.AuthenticationService|Login attempt has made : nitinn
+2025-02-06 10:30:13.5557|WARN|LoggerExample.AuthenticationService|Login failed : Incorrect password for the user : nitinn
+2025-02-06 10:36:50.2801|INFO|LoggerExample.AuthenticationService|Login attempt has made : prashant
+2025-02-06 10:36:50.3222|WARN|LoggerExample.AuthenticationService|Login failed : Incorrect password for the user : prashant
+2025-02-06 10:36:50.3222|INFO|LoggerExample.AuthenticationService|Login attempt has made : mau
+2025-02-06 10:36:50.3222|WARN|LoggerExample.AuthenticationService|Login failed : Incorrect password for the user : mau

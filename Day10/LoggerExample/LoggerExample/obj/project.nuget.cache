@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "473WJeyqEPoz67rsFW3WACeRFZibo1sErK9Dn1BtYgv8peWOP0dU2vgFNMJ4lEJRWTwSel48dvIKRY2oFYcuXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ankit Kumar\\Desktop\\NGA-Training\\Day10\\LoggerExample\\LoggerExample\\LoggerExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ankit Kumar\\.nuget\\packages\\nlog\\5.4.0\\nlog.5.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

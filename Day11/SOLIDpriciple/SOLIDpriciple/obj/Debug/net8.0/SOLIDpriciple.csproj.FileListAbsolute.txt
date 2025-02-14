@@ -1,0 +1,14 @@
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day11\SOLIDpriciple\SOLIDpriciple\obj\Debug\net8.0\SOLIDpriciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day11\SOLIDpriciple\SOLIDpriciple\obj\Debug\net8.0\SOLIDpriciple.AssemblyInfoInputs.cache
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day11\SOLIDpriciple\SOLIDpriciple\obj\Debug\net8.0\SOLIDpriciple.AssemblyInfo.cs
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day11\SOLIDpriciple\SOLIDpriciple\obj\Debug\net8.0\SOLIDpriciple.csproj.CoreCompileInputs.cache
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day11\SOLIDpriciple\SOLIDpriciple\bin\Debug\net8.0\SOLIDpriciple.exe
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day11\SOLIDpriciple\SOLIDpriciple\bin\Debug\net8.0\SOLIDpriciple.deps.json
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day11\SOLIDpriciple\SOLIDpriciple\bin\Debug\net8.0\SOLIDpriciple.runtimeconfig.json
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day11\SOLIDpriciple\SOLIDpriciple\bin\Debug\net8.0\SOLIDpriciple.dll
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day11\SOLIDpriciple\SOLIDpriciple\bin\Debug\net8.0\SOLIDpriciple.pdb
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day11\SOLIDpriciple\SOLIDpriciple\obj\Debug\net8.0\SOLIDpriciple.dll
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day11\SOLIDpriciple\SOLIDpriciple\obj\Debug\net8.0\refint\SOLIDpriciple.dll
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day11\SOLIDpriciple\SOLIDpriciple\obj\Debug\net8.0\SOLIDpriciple.pdb
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day11\SOLIDpriciple\SOLIDpriciple\obj\Debug\net8.0\SOLIDpriciple.genruntimeconfig.cache
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day11\SOLIDpriciple\SOLIDpriciple\obj\Debug\net8.0\ref\SOLIDpriciple.dll

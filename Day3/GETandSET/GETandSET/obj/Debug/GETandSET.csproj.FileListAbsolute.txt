@@ -1,0 +1,7 @@
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day3\GETandSET\GETandSET\bin\Debug\GETandSET.exe.config
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day3\GETandSET\GETandSET\bin\Debug\GETandSET.exe
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day3\GETandSET\GETandSET\bin\Debug\GETandSET.pdb
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day3\GETandSET\GETandSET\obj\Debug\GETandSET.csproj.AssemblyReference.cache
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day3\GETandSET\GETandSET\obj\Debug\GETandSET.csproj.CoreCompileInputs.cache
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day3\GETandSET\GETandSET\obj\Debug\GETandSET.exe
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day3\GETandSET\GETandSET\obj\Debug\GETandSET.pdb

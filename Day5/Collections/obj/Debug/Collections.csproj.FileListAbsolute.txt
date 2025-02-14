@@ -1,0 +1,2 @@
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day5\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day5\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache

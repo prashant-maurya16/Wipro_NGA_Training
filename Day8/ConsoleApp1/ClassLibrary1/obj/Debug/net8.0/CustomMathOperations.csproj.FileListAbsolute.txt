@@ -1,0 +1,11 @@
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day8\ConsoleApp1\ClassLibrary1\bin\Debug\net8.0\CustomMathOperations.deps.json
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day8\ConsoleApp1\ClassLibrary1\bin\Debug\net8.0\CustomMathOperations.dll
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day8\ConsoleApp1\ClassLibrary1\bin\Debug\net8.0\CustomMathOperations.pdb
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day8\ConsoleApp1\ClassLibrary1\obj\Debug\net8.0\CustomMathOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day8\ConsoleApp1\ClassLibrary1\obj\Debug\net8.0\CustomMathOperations.AssemblyInfoInputs.cache
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day8\ConsoleApp1\ClassLibrary1\obj\Debug\net8.0\CustomMathOperations.AssemblyInfo.cs
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day8\ConsoleApp1\ClassLibrary1\obj\Debug\net8.0\CustomMathOperations.csproj.CoreCompileInputs.cache
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day8\ConsoleApp1\ClassLibrary1\obj\Debug\net8.0\CustomMathOperations.dll
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day8\ConsoleApp1\ClassLibrary1\obj\Debug\net8.0\refint\CustomMathOperations.dll
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day8\ConsoleApp1\ClassLibrary1\obj\Debug\net8.0\CustomMathOperations.pdb
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day8\ConsoleApp1\ClassLibrary1\obj\Debug\net8.0\ref\CustomMathOperations.dll

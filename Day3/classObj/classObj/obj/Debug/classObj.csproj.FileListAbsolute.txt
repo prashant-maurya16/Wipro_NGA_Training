@@ -1,0 +1,7 @@
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day3\classObj\classObj\bin\Debug\classObj.exe.config
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day3\classObj\classObj\bin\Debug\classObj.exe
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day3\classObj\classObj\bin\Debug\classObj.pdb
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day3\classObj\classObj\obj\Debug\classObj.csproj.AssemblyReference.cache
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day3\classObj\classObj\obj\Debug\classObj.csproj.CoreCompileInputs.cache
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day3\classObj\classObj\obj\Debug\classObj.exe
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day3\classObj\classObj\obj\Debug\classObj.pdb

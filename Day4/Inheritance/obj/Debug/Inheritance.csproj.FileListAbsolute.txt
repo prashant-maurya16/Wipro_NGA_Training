@@ -1,0 +1,7 @@
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day4\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day4\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day4\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day4\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day4\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day4\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day4\Inheritance\obj\Debug\Inheritance.pdb

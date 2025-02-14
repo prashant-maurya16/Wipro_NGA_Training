@@ -1,0 +1,7 @@
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day3\Constructor\LearningConstructor\Contructor\bin\Debug\Contructor.exe.config
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day3\Constructor\LearningConstructor\Contructor\bin\Debug\Contructor.exe
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day3\Constructor\LearningConstructor\Contructor\bin\Debug\Contructor.pdb
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day3\Constructor\LearningConstructor\Contructor\obj\Debug\Contructor.csproj.AssemblyReference.cache
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day3\Constructor\LearningConstructor\Contructor\obj\Debug\Contructor.csproj.CoreCompileInputs.cache
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day3\Constructor\LearningConstructor\Contructor\obj\Debug\Contructor.exe
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day3\Constructor\LearningConstructor\Contructor\obj\Debug\Contructor.pdb

@@ -1,0 +1,4 @@
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day8\ConsoleApp1\Login\obj\Debug\net8.0\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day8\ConsoleApp1\Login\obj\Debug\net8.0\Login.AssemblyInfoInputs.cache
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day8\ConsoleApp1\Login\obj\Debug\net8.0\Login.AssemblyInfo.cs
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day8\ConsoleApp1\Login\obj\Debug\net8.0\Login.csproj.CoreCompileInputs.cache

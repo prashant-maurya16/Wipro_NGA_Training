@@ -1,0 +1,17 @@
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day10\LoggerExample\LoggerExample\bin\Debug\net8.0\LoggerExample.exe
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day10\LoggerExample\LoggerExample\bin\Debug\net8.0\LoggerExample.deps.json
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day10\LoggerExample\LoggerExample\bin\Debug\net8.0\LoggerExample.runtimeconfig.json
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day10\LoggerExample\LoggerExample\bin\Debug\net8.0\LoggerExample.dll
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day10\LoggerExample\LoggerExample\bin\Debug\net8.0\LoggerExample.pdb
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day10\LoggerExample\LoggerExample\bin\Debug\net8.0\NLog.dll
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day10\LoggerExample\LoggerExample\obj\Debug\net8.0\LoggerExample.csproj.AssemblyReference.cache
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day10\LoggerExample\LoggerExample\obj\Debug\net8.0\LoggerExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day10\LoggerExample\LoggerExample\obj\Debug\net8.0\LoggerExample.AssemblyInfoInputs.cache
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day10\LoggerExample\LoggerExample\obj\Debug\net8.0\LoggerExample.AssemblyInfo.cs
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day10\LoggerExample\LoggerExample\obj\Debug\net8.0\LoggerExample.csproj.CoreCompileInputs.cache
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day10\LoggerExample\LoggerExample\obj\Debug\net8.0\LoggerExample.csproj.CopyComplete
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day10\LoggerExample\LoggerExample\obj\Debug\net8.0\LoggerExample.dll
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day10\LoggerExample\LoggerExample\obj\Debug\net8.0\refint\LoggerExample.dll
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day10\LoggerExample\LoggerExample\obj\Debug\net8.0\LoggerExample.pdb
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day10\LoggerExample\LoggerExample\obj\Debug\net8.0\LoggerExample.genruntimeconfig.cache
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day10\LoggerExample\LoggerExample\obj\Debug\net8.0\ref\LoggerExample.dll

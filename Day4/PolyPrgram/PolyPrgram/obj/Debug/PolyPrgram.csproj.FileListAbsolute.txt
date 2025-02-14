@@ -1,0 +1,7 @@
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day4\PolyPrgram\PolyPrgram\bin\Debug\PolyPrgram.exe.config
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day4\PolyPrgram\PolyPrgram\bin\Debug\PolyPrgram.exe
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day4\PolyPrgram\PolyPrgram\bin\Debug\PolyPrgram.pdb
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day4\PolyPrgram\PolyPrgram\obj\Debug\PolyPrgram.csproj.AssemblyReference.cache
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day4\PolyPrgram\PolyPrgram\obj\Debug\PolyPrgram.csproj.CoreCompileInputs.cache
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day4\PolyPrgram\PolyPrgram\obj\Debug\PolyPrgram.exe
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day4\PolyPrgram\PolyPrgram\obj\Debug\PolyPrgram.pdb

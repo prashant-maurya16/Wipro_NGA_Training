@@ -1,0 +1,14 @@
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day11\PaymentProccessingSystem\bin\Debug\net8.0\PaymentProccessingSystem.exe
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day11\PaymentProccessingSystem\bin\Debug\net8.0\PaymentProccessingSystem.deps.json
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day11\PaymentProccessingSystem\bin\Debug\net8.0\PaymentProccessingSystem.runtimeconfig.json
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day11\PaymentProccessingSystem\bin\Debug\net8.0\PaymentProccessingSystem.dll
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day11\PaymentProccessingSystem\bin\Debug\net8.0\PaymentProccessingSystem.pdb
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day11\PaymentProccessingSystem\obj\Debug\net8.0\PaymentProccessingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day11\PaymentProccessingSystem\obj\Debug\net8.0\PaymentProccessingSystem.AssemblyInfoInputs.cache
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day11\PaymentProccessingSystem\obj\Debug\net8.0\PaymentProccessingSystem.AssemblyInfo.cs
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day11\PaymentProccessingSystem\obj\Debug\net8.0\PaymentProccessingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day11\PaymentProccessingSystem\obj\Debug\net8.0\PaymentProccessingSystem.dll
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day11\PaymentProccessingSystem\obj\Debug\net8.0\refint\PaymentProccessingSystem.dll
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day11\PaymentProccessingSystem\obj\Debug\net8.0\PaymentProccessingSystem.pdb
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day11\PaymentProccessingSystem\obj\Debug\net8.0\PaymentProccessingSystem.genruntimeconfig.cache
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day11\PaymentProccessingSystem\obj\Debug\net8.0\ref\PaymentProccessingSystem.dll

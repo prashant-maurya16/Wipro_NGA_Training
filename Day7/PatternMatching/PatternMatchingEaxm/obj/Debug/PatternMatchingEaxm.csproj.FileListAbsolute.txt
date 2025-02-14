@@ -1,0 +1,7 @@
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day7\PatternMatching\PatternMatchingEaxm\obj\Debug\PatternMatchingEaxm.csproj.AssemblyReference.cache
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day7\PatternMatching\PatternMatchingEaxm\obj\Debug\PatternMatchingEaxm.csproj.CoreCompileInputs.cache
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day7\PatternMatching\PatternMatchingEaxm\bin\Debug\PatternMatchingEaxm.exe.config
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day7\PatternMatching\PatternMatchingEaxm\bin\Debug\PatternMatchingEaxm.exe
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day7\PatternMatching\PatternMatchingEaxm\bin\Debug\PatternMatchingEaxm.pdb
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day7\PatternMatching\PatternMatchingEaxm\obj\Debug\PatternMatchingEaxm.exe
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day7\PatternMatching\PatternMatchingEaxm\obj\Debug\PatternMatchingEaxm.pdb

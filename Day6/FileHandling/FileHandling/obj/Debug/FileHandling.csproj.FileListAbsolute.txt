@@ -1,0 +1,2 @@
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day6\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.AssemblyReference.cache
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day6\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache

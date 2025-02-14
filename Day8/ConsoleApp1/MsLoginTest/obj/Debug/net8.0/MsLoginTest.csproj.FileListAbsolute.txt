@@ -1,0 +1,6 @@
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day8\ConsoleApp1\MsLoginTest\bin\Debug\net8.0\CoverletSourceRootsMapping_MsLoginTest
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day8\ConsoleApp1\MsLoginTest\obj\Debug\net8.0\MsLoginTest.csproj.AssemblyReference.cache
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day8\ConsoleApp1\MsLoginTest\obj\Debug\net8.0\MsLoginTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day8\ConsoleApp1\MsLoginTest\obj\Debug\net8.0\MsLoginTest.AssemblyInfoInputs.cache
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day8\ConsoleApp1\MsLoginTest\obj\Debug\net8.0\MsLoginTest.AssemblyInfo.cs
+C:\Users\Ankit Kumar\Desktop\NGA-Training\Day8\ConsoleApp1\MsLoginTest\obj\Debug\net8.0\MsLoginTest.csproj.CoreCompileInputs.cache
